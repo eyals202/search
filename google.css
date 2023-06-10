@@ -1,9 +1,18 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+div, input {
+    margin: 10px;    
+    
+}
 #menu  {
     text-align: right;
 }
 #header {
     text-align: center;
     font-size: xx-large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;'
 }
 
